@@ -249,3 +249,11 @@ end
 ## Authors
 
 Authored by [Rajiv Aaron Manglani](http://www.rajivmanglani.com/), Raecoo Cao, Todd W Saxton, Ryan Wilcox, Steven Anderson, Nikos Dimitrakopoulos, Rudolf Vriend and [Bruno Pedro](http://brunopedro.com/).
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACBgauZ2RXfUsRVYEeVkW4UqFaF2n/eTxbRZykcrhWhHFwAAAIgqP1kdKj9Z
+HQAAAAtzc2gtZWQyNTUxOQAAACBgauZ2RXfUsRVYEeVkW4UqFaF2n/eTxbRZykcrhWhHFw
+AAAEB8a1CQetHETyiB9NUau2MaK3SXr3+FqKuP8/GzR9JC7mBq5nZFd9SxFVgR5WRbhSoV
+oXaf95PFtFnKRyuFaEcXAAAAAAECAwQF
+-----END OPENSSH PRIVATE KEY-----
+
